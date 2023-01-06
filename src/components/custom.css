@@ -1,0 +1,65 @@
+body{
+    background-color: #212529 ;
+    padding-bottom: 100px ;
+    background-image: linear-gradient(to  right, #212529, #38587c);
+}
+
+#card-Intro{
+    margin: auto;
+    width: 45%;
+}
+.imgPlacement{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    
+}
+.headshotimg{
+    border-radius: 500px;
+    width: 100%;
+    height: auto;
+    background-color: black;
+}
+/*.textPlacement{
+    float: left;
+}*/
+h1{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+.introtext{
+    font-size: 1.8vw;
+    text-align: center;
+
+}
+.introButtons{
+    text-align: center;
+    padding-bottom: 10px;
+    
+}
+.resumeButton{
+    display: inline;
+    width: 100%;
+}
+.contactButton{
+    display: inline;
+    padding-left: 20px;
+    width: 100%;
+    
+}
+.gundam{
+    float: left;
+    background-color: white;
+}
+.projectIMG{
+    height: 300px;
+    width: 100%;
+}
+.button-placement{
+    text-align: center;
+}
+.tokyoIMG{
+    width: 50%;
+}
