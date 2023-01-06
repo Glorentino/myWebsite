@@ -4,7 +4,7 @@ import './custom.css'
 const Hobby2 = () => {
     return (
         <>
-        <Card style={{ width: 'auto' }}>
+        <Card style={{ width: 'auto', boxShadow:'0px 0px 8px 5px #000000' }}>
         <Card.Body>
           <img className='tokyoIMG' src={anime} alt="anime"/>
 

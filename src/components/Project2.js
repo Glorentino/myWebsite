@@ -1,16 +1,13 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-
+import project2 from '../images/project2.png' 
 import './custom.css'
 const Project2 = () => {
     return (
         <>
           <Card style={{ width: 'auto', boxShadow:'0px 0px 8px 5px #000000' }}>
             <Card.Body>
-              <h2>
-                Application which translates English emails to Spanish 
-                and automatically sends to a person via SMS
-              </h2>
+            <img className='projectIMG' src={project2} alt='project2'/>
  
             </Card.Body>
             <div className='introButtons'>
