@@ -16,7 +16,7 @@ const Project3 = () => {
                 <Button>Live View</Button> 
               </div>
               <div className='contactButton'>
-                <Button href=''>GitHub</Button>
+                <Button href='https://github.com/Glorentino/pii_detector'>GitHub</Button>
               </div>
             </div>
           </Card>

@@ -12,7 +12,6 @@ const Contact = () => {
                 GitHub:<a href='https://github.com/Glorentino'> https://github.com/Glorentino </a>
                 <br/>
                 LinkedIn: <a href='https://www.linkedin.com/in/christopher-florentino-912707198/'> https://www.linkedin.com/in/christopher-florentino-912707198/</a>
-
             </Card.Text>
           </Card.Body>
         </Card>

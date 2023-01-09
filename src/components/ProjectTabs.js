@@ -22,7 +22,7 @@ const ProjectsTab = () => {
       <Tab eventKey="profile" title="Email2SMS">
       <Project2 />
       </Tab>
-      <Tab eventKey="contact" title="Resume Parser" >
+      <Tab eventKey="contact" title="PII Detector" >
       <Project3 />
       </Tab>
     </Tabs>
